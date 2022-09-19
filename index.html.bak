@@ -9,10 +9,10 @@
 
 
 
-<b>Book Title</b>							<b>	Book Author </b>
-<p>Alice's Adventures in Wonderland</p>		<p>Lewis Carroll</p>
-<p>Peter Pan</p>							<p>J. M. Barrie</p>
-<p>The Wonderful Wizard of Oz</p>			<p>L. Frank Baum</p>
+		<b>Book Title</b>						Book Author </b>
+<p><i>Alice's Adventures in Wonderland</i>		Lewis Carroll</p>
+<p><i>Peter Pan</i>						    	J. M. Barrie</p>
+<p><i>The Wonderful Wizard of Oz</i>			L. Frank Baum</p>
 
 
 
@@ -38,10 +38,10 @@
 
 
 
-<b>Text excerpts from:(link to <a href=http://www.gutenberg.org>Project Guttenberg</a></b>
-<ul> Mitzi Haro </ul>
-<ul>ITMD-361</ul>
-<ul>LAB 2</ul>
+<b>Text excerpts from:<a href=http://www.gutenberg.org>Project Guttenberg</a>
+<ul>·Mitzi Haro </ul>
+<ul>·ITMD-361</ul>
+<ul>·LAB 2</ul> </b>
 
 </body>
 </html>
