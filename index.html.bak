@@ -9,10 +9,10 @@
 
 
 
-		<b>Book Title                                                     Book Author </b>
+	<pre><b>Book Title                                                     Book Author </b>
 <p><i>Alice's Adventures in Wonderland</i>                                Lewis Carroll</p>
 <p><i>Peter Pan</i>                                                       J. M. Barrie</p>
-<p><i>The Wonderful Wizard of Oz</i>                                   	  L. Frank Baum</p>
+<p><i>The Wonderful Wizard of Oz</i>                                   	  L. Frank Baum</p> </pre>
 
 
 
